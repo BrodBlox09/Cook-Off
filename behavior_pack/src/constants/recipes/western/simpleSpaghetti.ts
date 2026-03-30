@@ -1,4 +1,4 @@
-import { ItemId } from "../../itemId.js";
+import { ItemId } from "../../itemId";
 
 export const simpleSpaghettiRecipe = {
     name: "bcc.cook:simple_spaghetti",

@@ -1,2 +1,2 @@
-import { yamashiro } from "../map.js";
-import { ItemId } from "../../../../constants/itemId.js";
+import { yamashiro } from "../map";
+import { ItemId } from "../../../../constants/itemId";

@@ -1,2 +1,2 @@
-import { cantinaAmericana } from "../map.js";
-import { ItemId } from "../../../../constants/itemId.js";
+import { cantinaAmericana } from "../map";
+import { ItemId } from "../../../../constants/itemId";

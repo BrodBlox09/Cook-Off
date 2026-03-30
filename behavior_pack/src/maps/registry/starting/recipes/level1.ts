@@ -1,8 +1,8 @@
-import { startingMap } from "../map.js";
-import { cheeseburgerRecipe } from "../../../../constants/recipes/western/cheeseburger.js";
-import { chickenPastaCarbonaraRecipe } from "../../../../constants/recipes/western/chickenPastaCarbonara.js";
-import { chickenSaladRecipe } from "../../../../constants/recipes/western/chickenSalad.js";
-import { chickenAlfredoRecipe } from "../../../../constants/recipes/western/chickenAlfredo.js";
+import { startingMap } from "../map";
+import { cheeseburgerRecipe } from "../../../../constants/recipes/western/cheeseburger";
+import { chickenPastaCarbonaraRecipe } from "../../../../constants/recipes/western/chickenPastaCarbonara";
+import { chickenSaladRecipe } from "../../../../constants/recipes/western/chickenSalad";
+import { chickenAlfredoRecipe } from "../../../../constants/recipes/western/chickenAlfredo";
 
 startingMap.recipeManager.addRecipe(cheeseburgerRecipe);
 startingMap.recipeManager.addRecipe(chickenAlfredoRecipe);

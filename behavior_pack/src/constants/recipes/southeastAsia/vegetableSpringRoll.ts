@@ -1,4 +1,4 @@
-import { ItemId } from "../../itemId.js";
+import { ItemId } from "../../itemId";
 
 export const vegetableSpringRollRecipe = {
     name: "bcc.cook:vegetable_spring_roll",

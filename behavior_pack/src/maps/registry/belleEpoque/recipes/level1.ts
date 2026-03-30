@@ -1,2 +1,2 @@
-import { belleEpoque } from "../map.js";
-import { ItemId } from "../../../../constants/itemId.js";
+import { belleEpoque } from "../map";
+import { ItemId } from "../../../../constants/itemId";
