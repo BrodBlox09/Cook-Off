@@ -1,4 +1,4 @@
-import { BaseMap } from "../../mapManager.js";
+import { BaseMap } from "../../baseMap";
 
 class StartingMap extends BaseMap {}
 
